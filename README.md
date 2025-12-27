@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently learning<br>I  am currently pursing B.tech Computer science from Jagannath university Jaipur<br> I am current working Intenship
+I  am currently pursing B.tech Computer science from Jagannath university Jaipur<br> I am current working Intenship
 
 
 # 💻 Tech Stack:
